@@ -2,6 +2,8 @@
 
 This project contains Python scripts for monitoring specific file types in a directory, concatenating their contents into a single HTML file, and uploading this file to an SFTP server every 10 seconds. Additionally, the scripts host the HTML file on a local HTTP server.
 
+Note this is a pretty dirty was of doing things. It is suggested this is not used unmonitored.
+
 The files are designed to be used with ChatGPT Plugin - Web Requests by @JD_2020 
 
 Documents:
