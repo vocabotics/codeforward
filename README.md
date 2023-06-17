@@ -41,7 +41,7 @@ python http_server.py
 
 ## Testing
 
-See [Test Document: VB-FORWARDER-003](link-to-test-document) for details on how to test the scripts.
+See [Test Document: VB-FORWARDER-003] for details on how to test the scripts.
 
 ## Authors
 
