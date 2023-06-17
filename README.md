@@ -4,6 +4,11 @@ This project contains Python scripts for monitoring specific file types in a dir
 
 The files are designed to be used with ChatGPT Plugin - Web Requests by @JD_2020 
 
+Documents:
+[Requirements Specification: VB-FORWARDER-001]
+[Design Document: VB-FORWARDER-002]
+[Test Document: VB-FORWARDER-003]
+
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
